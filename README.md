@@ -1,7 +1,6 @@
-# netflix
-[](https://yaserdemet.github.io/netflix/)
-![Animation](https://user-images.githubusercontent.com/99739515/165865901-efa3b5ae-c308-4efd-938a-f52542b5a300.gif)
 
+![Animation](https://user-images.githubusercontent.com/99739515/165865901-efa3b5ae-c308-4efd-938a-f52542b5a300.gif)
+[👉 click here to login to Netflix](https://yaserdemet.github.io/netflix/)
 # Project-001 :Survey Form (HC-01)
 
 ## Description
